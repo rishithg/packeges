@@ -1,0 +1,11 @@
+{
+  "name": "reydemmod",
+  "version": "1.0.0",
+  "description": "this is a text dir",
+  "main": "index.js",
+  "scripts": {
+    "test": "succes"
+  },
+  "author": "rishith",
+  "license": "MIT"
+}
